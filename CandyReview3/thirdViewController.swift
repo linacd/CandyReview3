@@ -2,7 +2,7 @@
 //  thirdViewController.swift
 //  CandyReview3
 //
-//  Created by Lina Dacanay on 11/2/23.
+//  Created by Lina Dacanay on 11/15/23.
 //
 
 import UIKit
